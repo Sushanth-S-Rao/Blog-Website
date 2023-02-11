@@ -18,12 +18,12 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('blog.urls'))
+    path('', include('blog.urls')),
 ]
 
-'''
+"""
 include() A function that takes a full Python import path to another URLconf module that should be “included” in this place
 
 path('') Django will now redirect everything that comes into 'http://127.0.0.1:8000/' (website)
 to blog.urls and looks for further instructions there.
-'''
+"""
