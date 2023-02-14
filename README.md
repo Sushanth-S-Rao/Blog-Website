@@ -23,7 +23,8 @@ This is a blog website built using Django framework and hosted on PythonAnywhere
 5) Open the Browser, and enter http://127.0.0.1:8000 into the addresss bar
 
 ## Additional Documentation
-If you want to read the notes of this project, access the medium article I posted [here](https://medium.com/@sushanthsrao/project-building-blog-website-using-python-based-django-web-framework-and-deploying-it-on-f9188901d689)
+If you want to read the notes of this project, access the medium article I posted [here](https://medium.com/@sushanthsrao/project-building-blog-website-using-python-based-django-web-framework-and-deploying-it-on-f9188901d689) 
+\
 If you want to read the official django documentation, access it [here](https://docs.djangoproject.com/en/4.1/)
 
 ## License
